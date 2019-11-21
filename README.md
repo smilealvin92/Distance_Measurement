@@ -1,5 +1,5 @@
 # Distance_Measurement
-双目测距，double camera distance measurement
+双目测距，double camera distance measurement，机器视觉，machine vision.
 # Package Requirements
 python 3.6.8, numpy 1.16.4, opencv-contrib-python 4.1.1.26, opencv-python 4.1.1.26.
 # Equipments
